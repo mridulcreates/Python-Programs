@@ -1,0 +1,80 @@
+Slide 1: Title Slide
+Title: Applications of Artificial Intelligence
+Subtitle: Transforming the World Around Us
+
+Add a background image of futuristic AI visuals (a robot interacting with digital data).
+Slide 2: Introduction
+Title: What is AI?
+
+AI simulates human intelligence in machines programmed to think, learn, and solve problems.
+Examples: Virtual assistants (Siri, Alexa), recommendation systems (Netflix, YouTube).
+Use an image of a robot or an AI brain network.
+Slide 3: AI in Healthcare
+Title: Healthcare Revolution
+
+Disease diagnosis through AI-powered imaging.
+Robotic assistance in surgeries.
+Personalized treatments based on patient data.
+Example: IBM Watson Health.
+Add an image of a doctor using AI tools or a robotic surgical assistant.
+Slide 4: AI in Education
+Title: Personalized Learning
+
+Adaptive teaching methods for students.
+AI tutors for better understanding complex topics.
+Automated grading systems save teachers' time.
+Example: Duolingo, Socratic.
+Use an image of students learning with AI or a virtual tutor.
+Slide 5: AI in Transportation
+Title: Self-Driving and Smart Transport
+
+Autonomous vehicles enhance safety and reduce accidents.
+AI optimizes traffic flow in cities.
+Predictive maintenance for vehicles.
+Example: Tesla Autopilot, Google Maps.
+Add an image of a self-driving car or traffic analysis dashboard.
+Slide 6: AI in Retail and E-commerce
+Title: Improving Customer Experience
+
+Personalized recommendations (e.g., Amazon, Netflix).
+AI chatbots improve customer service.
+Inventory management through demand prediction.
+Example: Flipkart, Alibaba.
+Add an image of a chatbot or an online shopping interface.
+Slide 7: AI in Agriculture
+Title: Smart Farming Solutions
+
+Detect crop diseases using AI drones.
+Precision farming optimizes water and pesticide use.
+Predict crop yields for better planning.
+Example: John Deere, Plantix.
+Use an image of a drone monitoring crops or AI sensors in a field.
+Slide 8: AI in Entertainment
+Title: Enhancing Creativity
+
+AI-powered recommendations for music and movies.
+Creating realistic graphics in video games.
+Example: Spotify, Unreal Engine.
+Add an image of a video game scene or streaming service.
+Slide 9: AI in Finance
+Title: Smarter Financial Decisions
+
+Fraud detection systems.
+Algorithmic trading for faster and more efficient decisions.
+AI evaluates loan approvals based on credit history.
+Example: PayPal, MasterCard.
+Use an image of a stock market dashboard or a bank using AI tools.
+Slide 10: AI in Social Media
+Title: Content Moderation and Personalization
+
+Detects and removes inappropriate posts.
+Shows targeted advertisements based on user interests.
+Example: Instagram, TikTok.
+Add an image of social media analytics or a chatbot.
+Slide 11: Conclusion
+Title: The Future of AI
+
+AI is transforming various sectors, making life more efficient and personalized.
+Encouragement to explore AI technologies and careers.
+End with a question: How can AI shape your future?
+Use an inspirational AI graphic for the background.
